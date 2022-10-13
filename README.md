@@ -8,17 +8,16 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-sn&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
-  <div display="flex">
-    <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Leo-Sass" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-     
-    <img align="center" alt="Leo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Leo-Matlab" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-    <img align="center" alt="Leo-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="center" alt="Leo-Nodejs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-     
-    <img align="center" alt="Leo-Sass" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <div>
+    <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Sass logo" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" alt="JavaScript logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="React logo" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Nodejs logo" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Git logo" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Jira logo" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+    <img align="center" alt="mysql logo" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </div>
 <br>
 <br>
