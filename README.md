@@ -1,4 +1,4 @@
-### Hi! I am Leo, an experience Project Manager diving into the software development world! 👋
+### Hi! I am Leo, an experience Project Manager transitioning my career to software development! 👋
 
 
 <br>
